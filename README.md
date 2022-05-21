@@ -27,14 +27,15 @@
   
   Distributed under the MIT License. See LICENSE.txt for more information.
 
- Disclaimer
- SafeObol is not liable for any outcomes as a result of using ERC721R. DYOR.
+  Disclaimer
+  SafeObol is not liable for any outcomes as a result of using ERC20. DYOR.
+  
+  Contact
+  SafeObol (owner) - {@SafeObolToken-
+  https://twitter.com/SafeObolToken}
 
-Contact
-SafeObol (owner) - @SafeObol
 
-
-<!---
-SafeObol/SafeObol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <!---
+ SafeObol/SafeObol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ You can click the Preview link to take a look at your changes.
+ --->
