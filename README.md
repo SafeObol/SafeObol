@@ -8,7 +8,7 @@
   SafeObol@SafeObol.com
 
   Website
-  SafeObol.com
+  https://www.SafeObol.com
 
   Facebook Page
   https://www.facebook.com/SafeObol-108348631469133
